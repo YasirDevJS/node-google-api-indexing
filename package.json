@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@googleapis/indexing": "^2.0.0",
+    "csv-parser": "^3.0.0",
+    "express": "^4.19.2",
+    "googleapis": "^134.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
